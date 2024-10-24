@@ -7,3 +7,7 @@ Another thing to note is that you are more than welcome, and encouraged to use m
 Always feel free to contact me with any suggestions.
 
 ~Camden
+
+
+# Day 1
+While the first day of this challenge is mostly a review, I feel that revisiting arrays and understanding them on a deeper level is one of, if not the most important topics to get down pat on anyone's computer science jourey. To practice arrays, I've solved three array-based LeetCode problems. These are problems that I have solved before, but this time I really took the time time priortize getting an EFFICENT solution, rather than just getting one that works. Today was an easy day, but I have posted all of my LeetCode solutions and their explainations in the day 1 folder. See you tommorow!
