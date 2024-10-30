@@ -11,3 +11,6 @@ Always feel free to contact me with any suggestions.
 
 # Day 1
 While the first day of this challenge is mostly a review, I feel that revisiting arrays and understanding them on a deeper level is one of, if not the most important topics to get down pat on anyone's computer science jourey. To practice arrays, I've solved three array-based LeetCode problems. These are problems that I have solved before, but this time I really took the time time priortize getting an EFFICENT solution, rather than just getting one that works. Today was an easy day, but I have posted all of my LeetCode solutions and their explainations in the day 1 folder. See you tommorow!
+
+# Day 2
+Today I went over the implementations of both singly, and doubly linked lists using C++. I think after coding up these raw implementations I have a firmer grasp on the concepts surrounding linked listed. That is not to say I am an expert; anything but. I still might have a little trouble implementing everything completely from memory. I do have to give credit to Paul Programming on YouTube. His linked lists tutorials are absolutely incredible. Take a look at them here!: https://www.youtube.com/@PaulProgramming. All in all I feel today was rather productive and I am looking forward to working with stacks and queues on day 3.
